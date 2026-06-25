@@ -190,27 +190,6 @@ I plan to continue expanding my cybersecurity knowledge in the following areas:
 
 ---
 
-## Repository Structure
-
-```text
-Cybersecurity-Learning-Journal/
-│
-├── README.md
-│
-├── certificates/
-│   ├── pre-security-certificate.pdf
-│   └── cyber-security-101-certificate.pdf
-│
-├── screenshots/
-│   ├── tryhackme-profile.png
-│   ├── badges.png
-│   └── learning-paths.png
-│
-└── projects.md
-```
-
----
-
 ## Disclaimer
 
 This repository is intended for educational and portfolio purposes only. All activities completed through training platforms were conducted within authorized and controlled learning environments.
